@@ -12,3 +12,14 @@
 - Next Step
   - Chỉnh sửa độ nhiễu
   - Kiểm tra lại công thức tìm điểm giữa
+  
+## 13/08/2024
+**Thay đổi cách Detect Line**
+/linev2.py
+- Task
+  - Detect Line
+  - Vẽ viền line
+- Problem:
+  - Chưa nhận diện rõ các ngã 3, ngã 4
+- Next Step:
+  - Line follow theo line đã được detect
